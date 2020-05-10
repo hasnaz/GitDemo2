@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\Newton-Projekt-VT20\\GitDemo2\\GitDemo2\\GitDemo2.csproj",
+      "projectUniqueName": "C:\\Temp\\Newton-Projekt-VT20\\GitClone\\GitDemoNewton\\GitDemo2\\GitDemo2.csproj",
       "projectName": "GitDemo2",
-      "projectPath": "C:\\Temp\\Newton-Projekt-VT20\\GitDemo2\\GitDemo2\\GitDemo2.csproj",
+      "projectPath": "C:\\Temp\\Newton-Projekt-VT20\\GitClone\\GitDemoNewton\\GitDemo2\\GitDemo2.csproj",
       "packagesPath": "C:\\Users\\hasnaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\Newton-Projekt-VT20\\GitDemo2\\GitDemo2\\obj\\",
+      "outputPath": "C:\\Temp\\Newton-Projekt-VT20\\GitClone\\GitDemoNewton\\GitDemo2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
