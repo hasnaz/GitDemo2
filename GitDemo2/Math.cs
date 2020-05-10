@@ -8,7 +8,9 @@ namespace GitDemo2
     {
         public static int Add(int a, int b)
         {
+            Console.WriteLine("this line is in MathCreatedinRemote");
             return a + b;
+            
         }
     }
 }
