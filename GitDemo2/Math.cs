@@ -10,5 +10,10 @@ namespace GitDemo2
         {
             return a + b;
         }
+
+        public static int Sub(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
